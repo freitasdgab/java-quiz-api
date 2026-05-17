@@ -111,3 +111,4 @@ src/
 - H2 Database (dev) / troque por MySQL/PostgreSQL em produção
 - Lombok
 - Bean Validation
+ 
